@@ -1,0 +1,5 @@
+# ignore caché files
+
+*__pycache__*
+.vscode/
+file.json
